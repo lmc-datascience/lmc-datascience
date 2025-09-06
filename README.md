@@ -25,7 +25,7 @@ Check my demo dashboards created for international BI portfolios:
 - [Vistula Retail BI Dashboard](https://github.com/lmc-datascience/Vistula-Retail-BI-Dashboard-)  
 - [NordicSoft SaaS Analytics](https://github.com/lmc-datascience/NordicSoft-Analytics-SaaS)  
 - [FinanTree Euro BI Dashboard](https://github.com/lmc-datascience/FinanTree-Euro-BI-Dashboard)  
-- [EcoChain Supply & ESG Dashboard](https://github.com/lmc-datascience/EcoChain-Supply-ESG)  
+- [EcoChain Supply & ESG Dashboard](https://github.com/lmc-datascience/EcoChain-Logistics-Supply-Chain-ESG)  
 
 ---
 
