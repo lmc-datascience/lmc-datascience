@@ -4,7 +4,7 @@
 
 With **7+ years of experience in Business Intelligence**, I have been working at **Petrobras S/A**, one of the largest global oil & gas companies, delivering **high-impact data solutions**.  
 
-🚀 I specialize in **building dashboards, data models, and analytics pipelines that can be applied to any business area** — from **finance and procurement** to **supply chain, HR, contracts, sustainability, and beyond**.  
+🚀 I specialize in **building dashboards, data models, and analytics pipelines that can be applied to any business area** — from **finance and procurement** to **supply chain procurements, HR, contracts, sustainability, and beyond**.  
 
 ---
 
@@ -43,7 +43,7 @@ Check my demo dashboards created for international BI portfolios:
 ---
 
 ## 🌐 About Me
-- European citizen (**Italian passport**) – no work visa needed in EU  
+- European citizen (Italian citizenship) – no work visa needed in EU  
 - Open to **relocation or remote opportunities across Europe**  
 - Passion for solving problems with **data-driven solutions**  
 - Strong interest in **international BI projects**  
