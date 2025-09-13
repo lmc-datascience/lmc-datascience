@@ -21,7 +21,7 @@ With **7+ years of experience in Business Intelligence**, I have been working at
 
 ## 📊 Portfolio Highlights
 Check my demo dashboards created for international BI portfolios:  
-
+- [Healthcare_Pharma](https://github.com/lmc-datascience/Healthcare-Pharma) 
 - [NovaEra Retail BI Dashboard](https://github.com/lmc-datascience/NovaEra-Retail-BI-Dashboard)  
 - [Vistula Retail BI Dashboard](https://github.com/lmc-datascience/Vistula-Retail-BI-Dashboard-)  
 - [NordicSoft SaaS Analytics](https://github.com/lmc-datascience/NordicSoft-Analytics-SaaS)  
