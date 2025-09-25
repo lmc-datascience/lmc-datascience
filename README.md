@@ -12,7 +12,7 @@ With **7+ years of experience in Business Intelligence**, I have been working at
 - **Power BI** (advanced DAX, data modeling, executive dashboards)
 - **Looker Studio** ( data modeling, dashboards) 
 - **SQL** (data extraction, modeling, ETL processes)  
-- **SAP BW, Oracle, SharePoint, APIs** (complex data integration)  
+- **SAP Datasphere, SAP BW, Oracle, SharePoint, APIs** (complex data integration)  
 - **Microsoft Power Platform** (Power Automate, Power Query)  
 - **Python** (Selenium, Pandas – automation & data processing)  
 - **AI tools** to accelerate development and improve productivity  
