@@ -52,4 +52,4 @@ Check my demo dashboards created for international BI portfolios:
 ---
 
 📫 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | [E-mail]( leo.cabral@lmc-datascience.com)
+[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | E-mail leo.cabral@lmc-datascience.com
