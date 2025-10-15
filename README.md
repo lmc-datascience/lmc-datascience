@@ -32,7 +32,7 @@ Check my demo dashboards created for international BI portfolios:
 
 ## 📚 Certifications
 - **Microsoft PL-300: Power BI Data Analyst in progress)**  
-- **Google Foundations of Business Intelligence **  
+- **Google Foundations of Business Intelligence**  
 
 ---
 
