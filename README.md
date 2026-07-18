@@ -46,10 +46,11 @@ Check my demo dashboards created for international BI portfolios:
 ---
 
 ## 🌐 About Me
-- European citizen (Italian citizenship) – no work visa needed in EU  
-- Open to **relocation or remote opportunities across Europe**  
-- Passion for solving problems with **data-driven solutions**  
-- Strong interest in **international BI projects**  
+
+- **Italian citizen** – European passport holder  
+- **Open to relocation and opportunities in the United States and Europe**  
+- Passionate about turning complex data into clear, actionable business insights  
+- Strong experience in large-scale environments and adaptability to different industries
 
 ---
 
