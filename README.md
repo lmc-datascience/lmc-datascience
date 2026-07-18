@@ -3,7 +3,18 @@
 **Power BI & Business Intelligence Consultant** | Data Analyst | SQL | Automation  
 **Data Analyst at Petrobras** (7+ years)
 
-🚀 I build **executive dashboards, robust data models, and automated analytics pipelines** that drive decisions across multiple industries — finance, procurement, supply chain, HR, contracts, sustainability, and more.
+🚀 I develop **high-impact dashboards and analytics solutions** in a large-scale energy environment. At Petrobras, I have built and maintained reports for:
+
+- Service contract control  
+- Maintenance orders  
+- Material purchases  
+- Material and product inventory  
+- Maintenance order costs  
+- Headcount  
+- General operational costs   
+- And several other operational and financial indicators
+
+I specialize in turning complex operational data into clear, executive-level insights that support decision-making in procurement, supply chain, maintenance, finance, and sustainability.
 
 ---
 
@@ -53,8 +64,8 @@ Demo dashboards (synthetic data for international BI portfolios):
 
 - **Italian citizen** – European passport holder  
 - Open to **relocation and professional opportunities in the United States and Europe**  
-- Passionate about turning complex data into clear, actionable business insights  
-- Currently contributing to large-scale data projects in the energy sector
+- Passionate about transforming complex operational and financial data into actionable business insights  
+- Strong experience in large-scale industrial environments
 
 ---
 
