@@ -1,38 +1,44 @@
-# 👋 Hi, I’m Leonardo Cabral
+# 👋 Hi, I'm Leonardo Cabral
 
-**Power BI & Business Intelligence Consultant** | Data Analyst | SQL | Automation  
-**Data Analyst at Petrobras** (7+ years)
+**Business Intelligence Developer | Analytics Engineer | Power BI · SQL · Data Modeling**
+**BI Developer at Petrobras** (8+ years) — one of the world's largest energy companies
 
-🚀 I develop **high-impact dashboards and analytics solutions** in a large-scale energy environment. At Petrobras, I have built and maintained reports for:
+🚀 I build **end-to-end BI solutions** in a large-scale, multi-source industrial environment — from raw, uncurated source data to executive-level decision dashboards. At Petrobras, I own the full pipeline for reporting across:
 
-- Service contract control  
-- Maintenance orders  
-- Material purchases  
-- Material and product inventory  
-- Maintenance order costs  
-- Headcount  
-- General operational costs   
-- And several other operational and financial indicators
+- Service contract management & supplier performance
+- Maintenance work orders & procurement
+- Inventory & supply chain
+- Cost accounting (cost centers, debit/credit cost allocation)
+- Headcount & operational cost tracking
 
-I specialize in turning complex operational data into clear, executive-level insights that support decision-making in procurement, supply chain, maintenance, finance, and sustainability.
+I specialize in turning messy, multi-system operational data into reliable, decision-ready analytics — combining hands-on data engineering with accounting/finance domain expertise.
+
+---
+
+## 💡 Key Technical Highlights
+
+- **Built end-to-end BI pipelines from raw, uncurated source tables** (data virtualization layer): performed column-level data profiling, cross-validated data integrity against SAP source systems, and applied data cleansing (type standardization, null/error handling) before modeling.
+- **Reverse-engineered undocumented SAP transaction logic** to consolidate a multi-month inventory movement report into a single continuous view — eliminating a manual, repetitive month-by-month re-querying process.
+- **Engineered a historical snapshotting solution** for a source table with no native change tracking, using a paginated report as a scheduled extraction mechanism and a Power BI dataflow as an incremental historical store.
+- **Combined accounting/finance domain expertise** (cost center accounting, cost allocation, headcount management) with hands-on BI development — enabling accurate, business-rule-driven data modeling without depending on functional teams to translate requirements.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Power BI** (Advanced DAX, Data Modeling, Executive Dashboards)
-- **Looker Studio** (Data Modeling & Dashboards)
+- **Power BI** (Advanced DAX, Data Modeling, Dataflows, Paginated Reports)
 - **SQL** (Extraction, Modeling, ETL)
-- **SAP Datasphere, SAP BW, Oracle, SharePoint, APIs** (Complex Integrations)
+- **SAP Datasphere, SAP BW, Oracle, SharePoint, Data Virtualization** (Complex Multi-Source Integration)
+- **Azure Databricks**, Tableau, Looker Studio
 - **Microsoft Power Platform** (Power Automate, Power Query)
-- **Python** (Selenium, Pandas – Automation & Processing)
-- **AI tools** to accelerate development
+- **Python** (Selenium, Pandas — Automation & Processing)
+- AI tools to accelerate development
 
 ---
 
 ## 📊 Portfolio Highlights
 
-Demo dashboards (synthetic data for international BI portfolios):
+Demo dashboards (synthetic data, built for international BI portfolios):
 
 - [Healthcare & Pharma](https://github.com/lmc-datascience/Healthcare-Pharma)
 - [NovaEra Retail BI Dashboard](https://github.com/lmc-datascience/NovaEra-Retail-BI-Dashboard)
@@ -55,19 +61,19 @@ Demo dashboards (synthetic data for international BI portfolios):
 ## 🌍 Languages
 
 - Portuguese: Native
-- English: B1 (technical – improving fluency for international projects)
-- Italian: A1
+- English: Working proficiency — actively building fluency for international roles
+- Italian: Basic
 
 ---
 
 ## 🌐 About Me
 
-- **Italian citizen** – European passport holder  
-- Open to **relocation and professional opportunities in the United States and Europe**  
-- Passionate about transforming complex operational and financial data into actionable business insights  
-- Strong experience in large-scale industrial environments
+- **Italian citizen** – European passport holder
+- Open to **relocation and professional opportunities in Europe**
+- 8+ years of experience in large-scale industrial, multi-system BI environments
+- Background in Accounting, which shapes how I model financial and cost data
 
 ---
 
-📫 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | leo.cabral@lmc-datascience.com
+📫 **Let's connect!**
+[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | leo.asgard@gmail.com
