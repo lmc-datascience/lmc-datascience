@@ -76,4 +76,4 @@ Demo dashboards (synthetic data, built for international BI portfolios):
 ---
 
 📫 **Let's connect!**
-[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | leo.asgard@gmail.com
+[LinkedIn](https://www.linkedin.com/in/leonardo-cabral-632185385) | [GitHub](https://github.com/lmc-datascience) | leo.cabral@lmc-datascience.com
